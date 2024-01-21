@@ -47,16 +47,16 @@ You can interact with GoGoChain using the following CLI commands:
 ./gogochain -initGenesis 1
 
 ### Get Address Balance
-./gogochain -balance <address>
+./gogochain -balance "address"
 
 ### Get Current Block Number
 ./gogochain -blockNumber 1
 
 ### Send Transaction
-./gogochain -sendTrx 1 -from <senderAddress> -to <recipientAddress> -value <amount> -auth <authorizationToken>
+./gogochain -sendTrx 1 -from "senderAddress" -to "recipientAddress" -value "amount" -auth "authorizationToken"
 
 ### Start a Node
-./gogochain -startNode 1 -sourcePort <portNumber> 
+./gogochain -startNode 1 -sourcePort 'portNumber' 
 
 ### Start a Validator Node
-./gogochain -startNode 1 -sourcePort <portNumber> -validator <validatorFlag> -address <validatorAddress>
+./gogochain -startNode 1 -sourcePort 'portNumber' -validator 1 -address "validatorAddress"

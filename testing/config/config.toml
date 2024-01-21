@@ -1,0 +1,5 @@
+[Node.P2P]
+bootnodes = [
+    "/ip4/40.112.209.145/tcp/80/p2p/16Uiu2HAkxWKQfZfGxh68TP5WLQucEKfuNwNHf4cNSrfx9s6Uwbui",
+    "/ip4/Another.IP.Address.Here/tcp/AnotherPort/p2p/AnotherP2PAddressHere"
+]

@@ -1,0 +1,23 @@
+
+
+- different types of comments
+// normal, these are completed fucntions that are not been used at the time
+// SHARDING RELATED
+// CONSENSUS RELATED
+// CONFUSED
+// Temporary
+// IMPROVEMENTS
+// LATER
+
+
+
+
+
+
+
+
+
+
+---------------
+TODO
+ - SEND TRANSACTION IS NOT WORKING AS OF NOW
